@@ -1,0 +1,14 @@
+
+
+.nav-tabs {
+  border-bottom:none;
+}
+
+
+
+.nav-tabs .nav-link.active {
+  background-color: #fff2bc;
+  border-bottom:#fff2bc;
+  font-weight: bold;
+}
+
