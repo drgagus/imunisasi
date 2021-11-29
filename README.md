@@ -12,7 +12,7 @@ Aplikasi berbasis web yang mendata imunisasi anak di Puskesmas.
 - Persentase Capaian IDL (Imunisasi Dasar Lengkap)
 - Multi User
 
-## Buit With
+## Built With
 
 - [Codeigniter 3](https://codeigniter.com/)
 - [Bootstrap 3.x](https://getbootstrap.com/)
